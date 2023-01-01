@@ -17,7 +17,7 @@ I'm currently working as a student in [Edumiam](https://www.edumiam.com/). We ar
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
     
 ##### 💬 Ask me about 
-Software craftsmanship and Best practices. Or Animes and Football ⚽.
+Code and Best practices. Or Animes and Football ⚽.
 ##### 📫 How to reach me: 
 
 ![damirdine@outlook.fr](https://img.shields.io/badge/Email-%230db7ed?style=for-the-badge&logo=gmail&logoColor=white) : damirdine@outlook.fr
